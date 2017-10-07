@@ -1,2 +1,3 @@
 # MADM-2017
-This is the material for MADM-2017 course on python for data analysis
+
+Este es el material para el curso de **Tecnologías para el análisis masivo de datos** del año 2017-2018
